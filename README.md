@@ -20,7 +20,7 @@
 <br />
 <br />
 
-Currently working for [Schweitzer Engineering Labs](https://selinc.com) where I am an Associate Firmware Developer.
+Currently working for [Schweitzer Engineering Labs](https://selinc.com) where I am a Firmware Developer.
 Check out my [blog](https://silasstokes.com/) where I am writing about projects I've done.
 
 
